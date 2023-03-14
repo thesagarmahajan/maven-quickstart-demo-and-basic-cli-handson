@@ -1,6 +1,6 @@
 # Maven Installation
 
-- Step-1  Visit httpsmaven.apache.orgdownload.cgi and download the .zip file.
+- Step-1  Visit https://maven.apache.org/download.cgi and download the .zip file.
 - Step-2  Extract the zip file and place the extracted directory in the java folder
 - Step-3  Add MAVEN_HOME Path to environment variable
 - Step-4  Open cmdterminal and run ``` mvn --version ``` to verify the installation
